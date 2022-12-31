@@ -1,0 +1,11 @@
+*Use JFrame and Jpanel to create the frame of a simple calculator.
+
+*Create array of required buttons.
+
+*Add event listener to give action response.
+
+* Add a text box which cannot be edited.
+
+*Create Jbuttons to create number and operations.
+
+* Assign the numbers and operations action in main method.
